@@ -1,0 +1,11 @@
+{
+    "name": "jorge/mvc",
+    "autoload": {
+        "psr-4": {
+            "Mvc\\": "mvc/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
