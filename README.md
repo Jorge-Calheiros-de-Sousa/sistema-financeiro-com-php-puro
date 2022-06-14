@@ -1,5 +1,5 @@
 # sistema-financeiro-com-php-puro
-<img src = "resources/img/Logotipo.png">
+
 
 ### Requisitos
 
